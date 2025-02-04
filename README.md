@@ -5,7 +5,7 @@ ShoppyGlobe is a simple and responsive e-commerce web application built with Rea
    
   ## Live Demo
 
-http://localhost:5173/
+https://Anchal-Mishra.github.io/-ShoppyGlobe-E-commerce-App/
 
   ## Github Link
   
